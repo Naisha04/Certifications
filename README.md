@@ -17,4 +17,6 @@ https://coursera.org/share/8ccbe8432ba73084da4f9ebe15d3291d
 
 **Project Certificate**
 
-Python for Data Analysis: Pandas & NumPy: This project was completed through the Coursera Project Network. The instructor was Ryan Ahmed.
+**4. Python for Data Analysis: Pandas & NumPy:** This project was completed through the Coursera Project Network. The instructor was Ryan Ahmed.
+
+https://coursera.org/share/b3c719d4a7d36b4024196f4855218c54
